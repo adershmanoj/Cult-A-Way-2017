@@ -1,0 +1,442 @@
+{
+  "hashtags": [  
+    {
+      "hashtag": "TAGTICS",
+      "description": "Are you a coder? Does it tickle your brain and rack your grey cells to solve a code? If so TagTics is the competition for you. TagTics is a distinctive, yet interesting coding competition that requires strategy and skill. It is a tag team challenge that emphasizes on how well you can code as a team. A competition worth 8k prize money sponsored by GOOD METHODS GLOBAL. Winners will also be given job offers to launch their career as a coder in the real world. So are you game?",
+      "month": "April",
+      "media_url": "img/artwork/coding.jpg", 
+      "artist": {
+        "name": "Computer Science",
+        "title":"",
+        "hometown":"<br>Gowtham : +919497624229",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#988d87"
+    },
+    {
+      "hashtag": "Line Navigator",
+      "description": "Can your robot find the path to glory and follow it? Think your robot has that X- factor to to be the next Magellan among Navigator bots!! Showcase your bot's skills, as it treads along tricky corners and sketchy patterns. Prepare to find out if your robot has what it takes to become the best out there. If you believe that your robot is the ultimate champion prove it at Cult A Way!!",
+      "month": "December",
+      "media_url": "img/artwork/line-navigator.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>Objective:The objective of the competition is to complete the course in the shortest period of time while accurately tracing the course line from start to finish.</li><li>Participants: 2 to 4 members. Inter-college team is permitted</li><li>Registration Fee: 150</li><li>The track may consist of straight lines, 90° curves, acute angles, broken lines, loops.</li><li>The track will be divided into checkpoints</li><li>Winner will be decided on the basis of time.</li><li>If no team finishes then the maximum distance covered will be taken into account.</li><li>Timekeeping: time shall be measured by a judge with a stopwatch. In either case the recorded time shall be final.</li><li>Robots have to operate autonomously and may not be remote-controlled. All systems have to completely reside on the robot.</li><li>The track will be disclosed at the start of the event.</li><li>Only 2 trials will be provided to each team.</li><li>Claims because of changing lighting conditions in the room or flash lights of photographers won't be accepted.</li><li>Aftermarket bots such as pololu bots are not allowed</li>",
+        "hometown":"<br><br>Nikhil : +917736111332 <br> Aravind : +918891351554",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Technical expo",
+      "description": "Influence of biotechnology on the present life is tremendous. We welcome you to the world of biotechnology to help to witness the phenomenal science of biotechnology which you experienced but failed to realise and also to take you to the depths of biotechnology   ",
+      "month": "August",
+      "media_url": "img/artwork/bioexpo.jpg", 
+      "artist": {
+        "name": "Biotechnology",
+        "title":"",
+        "hometown":"<br><br>Shwetha R : 7736601115<br>Vignesh K A : 9633604751<br>Sooraj J L : 9048886951",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+     {
+      "hashtag": "Invenire",
+      "description": "Fellow designers and business minds, this is a big shout out to all of you!This first edition of Advent presents before you#Invenire - the ultimate design challenge.The job is simple. Invent a solution for the problem posed to you given on the spot and market the same.",
+      "month": "August",
+      "media_url": "img/artwork/invenire.jpg", 
+      "artist": {
+        "name": "Production",
+        "title":"",
+        "topic":"<span class='info-title'>Rules</span><li>Team size of maximum five.</li><li>A laptop has to be brought by the team with MS Powerpoint 2007 or higher.</li><li>It is recommended to produce a CAD model.</li><li>Participants can make use of the internet.</li><li>Judges decision will be final and binding.</li><li>Date : 9am, Mar 2nd.</li><li>Venue : SCT Campus, Pappanamcode.</li><li>Registration fee: 100/head.</li>",
+        "hometown":"<br><br>Jukel : +919495904680 <br> Akhil : +917994816759",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+     {
+      "hashtag": "Recyclomaina",
+      "description": "Don't be bitter,let's pick up the litter and recycle.",
+      "month": "August",
+      "media_url": "img/artwork/recyclomania.jpg", 
+      "artist": {
+        "name": "Biotechnology",
+        "title":"<span class='info-title'>Rules</span><li>A team can have a maximum of 5 members.</li><li>Waste items to be recycled can be collected from schools,colleges or houses beforehand.</li><li>The contestants will be allotted 2 hours for on the spot recycling.</li><li>Participants are requested to bring the required acessories like scissors,colors etc.</li><li>Scores will be assigned based on the number of products made,creativity,feasibility and type of material recycled</li>",
+        "hometown":"<br><br> Dharani : +919446443999 <br> Nayana : +918547443528",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },{
+      "hashtag": "Usual Suspects",
+      "description": "When ashes rise from the fire and murderous intent steaks the air the stench of sins that leads to seventh hell.....<br>Will an agent of justice be born to seek vengeance to the opressed? <br>Are you ready to step into the shoes of the saviour? Are you ready for your calling?Are you ready to prove that your investigation, interrogation and deduction skills have what it takes to take home the ultimate glory and crack the crime thriller.<br>Brave enough, then come and prove your worth ! ",
+      "month": "August",
+      "media_url": "img/artwork/usual-suspects.jpg", 
+      "artist": {
+        "name": "Biotechnology",
+        "title":"<span class='info-title'>Details</span><li>Time: 50 min</li><li>Team : 2-4 per team</li><li>Registration : 200 rupees</li><li>Prize : 4k</li><li>March 2nd @ 9:30 </li><li>Extra info : Judges decision final</li><li>Crime scene investigation and suspect interrogation to be completed in 50 mins</li>",
+        "topic":"",
+        "hometown":"<br><br>Keshav Jayasankar 8547179397<br>Kethan Menon: 9061534735",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+    {
+      "hashtag": "Rummage",
+      "description": "Rummage is a college wide treasure hunt in which teams will run for the treasure at different spots inside the campus from a series of clues. There will be a preliminary test from which 6 teams will be selected for finals and the team that finds the treasure in the shortest time will be the ultimate Winner.",
+      "month": "  March",
+      "media_url": "img/artwork/rummage17.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>Rules</span><li>A team of maximum 2 members.</li><li>Students from any department can take part in the hunt</li><li>Only home participation is allowed</li><li>Teams will be filtered to 6 through a preliminary test</li><li>Team needs to cover different spots in the college within 2 hours.</li><li>The team must reach every spot with both the members.</li><li>Use of mobile phones is strictly prohibited.</li><li>No consideration will be given for any unprecedented situation</li><li>All the clue cards must be kept carefully; it’s the key to treasure.</li><li>If no team covers all spots in 2hours, then the team that covered maximum spots will be the winner.</li><li>At each spot, the teams need to show the previous clue card for acquiring next clue.</li><li>Use of mobile phones will lead to direct disqualification.</li><li>Decision of organizing team will be final.</li>",
+        "hometown":"<br><br>Sabari: 9995605651<br>Manu : 9037764780<br>Asif : 9497848281",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+    {
+      "hashtag": "Robo League",
+      "description": "For all robotic maniacs out there...we are providing a real time platform for applying your computational intelligence.... This event is a platform for participants to showcase their robotics talents and also to bring alive the football spirit. Let your bot to show its skills on an arena specially designed for that...",
+      "month": "March",
+      "media_url": "img/artwork/robo-league17.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>Maximum number of members per team is 3.</li><li>The arena shall be 130cm long and 90cm wide.<li>The goal post shall be 40cm wide and 22cm in height from bottom.</li><li>The penalty shot will be taken at a distance of 50cm from the opponent's goal post.</li><li>Ready-made chassis are not allowed and would lead to the disqualification of the team.</li><li>The decision of the event coordinator regarding these rules and conduct of event shall be final.</li><span class='info-title'>Judging Criteria </span><li>The team with maximum goals at the completion of the two halves of the match will emerge as the winner.</li><li>The competition comprises of league matches and knockout matches. In case there is a tie in the score at the end of the match in the knockout stage, a penalty shootout shall be conducted to resolve the tie.</li><li>In the penalty shootout, each team shall be given five penalty shots from the penalty spot with no vehicle of the opposition guarding the goal. </li><li>The team that can net maximum number of goals during the shootout will be declared the winner.</li>",
+        "hometown":"<br><br>Harish 9746048780<br>Prabhu 9809843162<br>",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+    {
+      "hashtag": "Real Steel",
+      "description": "Combining the excitement of sport with the rigors of technology Advent -'17 proudly invites you to the battlefield of machines where the creativity meets that fearless soul. If you wanna be a combatant ,armor your bots and be ready for the game of robots. Here only the 'Real Steel' will prevail and everything else will get ravished.",
+      "month": "April",
+      "media_url": "img/artwork/real-steel.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>Dimensions must be45×45×45 with a max weight of 12 kg.</li><li>Loose contact or improper wiring of the bot may lead to direct disqualification even before the tournament</li><li>Methods of mobility include:<ol><li>Rolling( wheels or the whole robots)</li><li>Flying(using air flowing,helium balloons,ornithopters,etc.) are not allowed.</li></ol></li><br><br><span class='info-title'>General rules</span><li>The machine would be checked for its safety before the completion and would be discarded if found unsafe for other participants and spectators.(Asimov Rules!!!!)</li><li>The organizers reserve the right to change the rules of required.</li><li>violation of any rules will leads to disqualification.</li><li>Coordinator's decision shall be treated as final and binding on all.</li><br><br><center>Be the strong warrior.......take up the challenge......gear up for the ultimate battle.</center>",
+        "hometown":"<br><br>Aravind 9496031373<br>Aneesh 9496323963<br>Madhav 7012431110",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#988d87"
+    },
+    {
+      "hashtag": "Civil Master",
+      "description": "Have you ever wished to use your knowledge in real life?? Can your creation withstand extremities? Did you ever think about a bridge made of cardboard?Come on and find out in a race against time to build the strongest structure possible, on CARDBOARD!!! Civilians, put your knowledge to the test on March 2",
+      "month": "December",
+      "media_url": "img/artwork/civil-master.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>EVENT DETAILS</span><li>Venue- SCT College of Engineering</li><li>Date-2nd march</li><li>Time-12:30 to 2:00 pm</li><li>First prize-2k</li><li>Second prize-1k</li><li>Registration fees-100/team (maximum of 3 people)For online registration <a href='https://docs.google.com/forms/d/e/1FAIpQLScNCEVLegYkdqKq6hbYFUa9joYCwH6nHuIYJC_tT8xKvfaOgg/viewform'>Click here</a> </li>",
+        "hometown":"<br><br>Venu 9497454182<br>Gokul 9400564434",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Junkyard Wars",
+      "description": "Are you good in _mechanics_? It is the time to prove your mettle.<br>Advent '17 presents Junkyard Wars.<br>A commonly used mechanical system will be dismantled and given. Contestants are expected to re-assemble them from the scraps back to working condition in the shortest time.",
+      "month": "August",
+      "media_url": "img/artwork/junkyard-wars.jpg", 
+      "artist": {
+        "name": "Mechanical",
+        "title":"<span class='info-title'>Rules</span><li>A team of maximum 2 members.</li><li>Students from any department can takepart in the contest</li><li>Students from different institutes can form a team</li><li>Home participation is also allowed</li><li>The event has two rounds. Only the qualifying teams from the preliminary round are allowed to proceed to the final round.</li><li>Only the materials and tools provided by the organizing team are to be used, violations will lead to disqualification;in cases where the organizer feels that other materials are required,relaxation will be made.</li><li>Extra time will not be provided</li><li>Decision of organizing team will be final.</li><li>Reg fee of 100 per team</li>",
+       "hometown":"<br><br>Yaswanth :: 9895124563<br>Nakul MS:: 9496369743<br>Aravind M :: 9495021148",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+     {
+      "hashtag": "Bad Lands",
+      "description": "Building ordinary robots are for the faint hearted. If you think you are extraordinary and can make your bot tread through any terrain in front of it? Think your robot can beat other bots in the 'Badlands'!! Prove your bot's capabilities and skills as it takes on different terrains at our track. Prepare to find out which of the bots can complete the track and who emerges the fastest at Cult A Way 2017!! Be the Stronghold Crusader of that Badland!!.",
+      "month": "August",
+      "media_url": "img/artwork/bad-lands.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>Ready made toy cars are not allowed</li><li>The team should not consist of more than 4 members.</li><li> There will be checkpoints at regular intervals on the track. If the Robot crosses the track limit then the Robot would be placed back on the previous checkpoint crossed.</li><li>Three hand touches will be allowed in the race. Any excess hand touches will lead to penalties.</li><li>If the bot is proved to be inactive for more than 60 seconds, it will be disqualified.</li><li>There will be bonus points for crossing some challenges.</li><li>Only maximum of two team members are allowed in the arena, one member will control the bot and other to guide.</li><li> Damage to the track due to negligence by the participant will lead to instant disqualification.</li><li>No test practice will be allowed on the main arena.</li><li>The decision of the judges will be final and abiding. Argument with judges in any form will lead to the disqualification of the team.</li><span class='info-title'>Specifications:</span><li>Maximum dimension of the robot can be 30 x 30 cm x 30cm (l x b x h) - should fix in a box of the same size.</li><li>The robot may be wired or wireless.</li><li>The length of the wire (for wired bots) should be long enough to cover the whole track and wire should remain slack during the complete run.</li><li>Max weight must not exceed 4-5kg.</li><span class='info-title'>Track specification</span><li>It is really a 'bad land' consisting of rocky, sandy & slippery terrains. There will be sharp turns & steep inclinations. Sometimes you will have to face unexpected obstacles also!!</li><span class='info-title'>Other Info</span><li>Registration Fee: Rs 500 per bot</li><li>Nothing but pure enthusiasm and that determination to create a robot that can cover any terrain will make you the Conqueror.</li>",
+        "hometown":"<br><br>Kesavan : +919496368350 <br> Gokul : +919567351513",
+        "topic":"",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+     {
+      "hashtag": "Photosynthesis",
+      "description": "Get ready to pull out a theme through the art of photoshop",
+      "month": "August",
+      "media_url": "img/artwork/photosynthesis17.jpg", 
+      "artist": {
+        "name": "Computer Science",
+        "title":"<span class='info-title'>Instructions</span><li>A group of unrelated images will be provided. The task is to build up a theme based on selective images & create an impression on some relevant topic.</li><span class='info-title'>Rules for judgment</span><li>Usage & editing of the stock images</li><li>Clarity & importance of the theme</li><li>Significance of the theme shouldn't be judged(-ve points applicable)</li><li>Caption should be apt</li><li>Judgement focuses on the design modules uses</li><span class='info-title'>Other Info</span><li>Prize: 2k</li><li>Time 10:30</li><li>Duration: 2hrs</li><li>Venue: DB LAB, SCTCE</li>",
+        "hometown":"<br>Ashwin 9446418881",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },    
+    {
+      "hashtag": " ElectroHunt",
+      "description": "The world is full of obvious details that people frequently miss.Do you think you have an eye for that kinda detail? Does finding clues and solving riddles fascinate you? What if we beat up a little electronics into this little fascination of yours?<br>Well it's time to wake up that high functioning sociopath in you.Rack up that old dusty detective cap of yours to don the role that you've always dreamed of.<br>'The detective'.<br>But the real question is where do you begin??? If you can caver en and unveil the mystery in this poster , you've got yourself one helluva journey.",
+      "month": "March",
+      "media_url": "img/artwork/electrohunt.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Details</span><li>Team of 2-4</li><li>Registration Rs.50 per head</li><li>Exciting levels ...... </li><li>Eliminations will be there in the 3rd level for those who fail to catch up with the clock</li><li>Prize worth 6K</li>",
+        "hometown":"<br><br>Abhijit  9496784855<br>Jithu  9633003026<br>Deepthi  9495887873",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+    {
+      "hashtag": "Mimic Our Bots",
+      "description": "Think you can do whatever we do? You are confident to take up the challenges and prove that you are the undefended one? Find out by matching all our moves with your bot If coordination is your forte and imitation is your specialty, then battle with us...mimic our bot.",
+      "month": "August",
+      "media_url": "img/artwork/mimic-our-bots.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Problem Statement</span><li>The arena consist of grids.Our bot traverse through the grid the way we programmed it to do. Instead of taking a straight line path the bot traverses through cells, drawn and the cells through which bot travels through will be marked and these are taken as the reference path.<br>The objective of participants are to program your bot to mimic our bot, by closely traversing the same path our bot did. Bot with a good sum of the right squares minus a percentage of wrong squares will be considered as points earned by a team and the team with maximum point wins, if two teams have same points, time will be taken into account and one with shortest time wins</li><span class='info-title'>Rules and Regulation</span><li>Aftermarket bots such as pololu bots are not allowed</li><li>Only 2 trials will be provided to each team.</li><li>Arena will be revealed during event, floor plan only consist of grids , there are no other visual indicators.</li><li>Maximum dimension of the robot can be 30 x 30 cm x 30cm (l x b x h) - should fix in a box of the same size.</li><li>The robot may be wired or wireless.</li><li>The length of the wire (for wired bots) should be long enough to cover the whole track and wire should remain slack during the complete run.</li><li>Max weight must not exceed 4-5 kg.</li><li>Grids entered by the bot will be noted and decided by judge / coordinator and it will be final.</li><li>Criteria for measuring whether the bot entered the grid or not will be revealed during the game.</li><span class='info-title'>Other Info</span><li>Team shall consist of 2-3 members</li><li>Registration Fee- Rs150 per team</li>",
+        "hometown":"<br><br>Abhijith M 9400786723<br>Anand Raj 9995648280",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#f47724"
+    },
+    {
+      "hashtag": "Closed Loop System",
+      "description": "Arduino have world's most famous microcontroller atmega328 at it's heart. Keeping Arduino the brain, sensor its eyes and an actuator its hands ,do you think you have what it takes to create a closed loop that we can manipulate to get result that we want ? Use your Arduino skills to make the most effecient Closed loop system and let others get amazed by your out of box thinking!!!!",
+      "month": "April",
+      "media_url": "img/artwork/closed-loop-system.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"",
+        "hometown":"<br><br>Gopika 9497106346<br>Gowri 8301955472",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#988d87"
+    },
+    {
+      "hashtag": "Circuit Rectifier",
+      "description": "Do you find yourself a circuit geek ??? If yes, grab this OPPORTUNITY to prove yourself. Here CULT A WAY 2K17 presents",
+      "month": "December",
+      "media_url": "img/artwork/circuit-rectifier.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Details</span>The event has TWO rounds which test your circuit designing and rectification skills.<li>ROUND 1: In this round 10 general aptitude and 15 simple electronics related questions will be given. Time provided for this round is 30 min. Participants are required to have basic knowledge of Electronics.</li><li>ROUND 2: Participants who are selected to the second round are tested on their knowledge of digital circuitry and analog circuitory. In this round digital electronics and analog electronics based circuits will be given and they are supposed to design, rectify and develop the circuit. Time for this round is 2 hrs.</li><li>REGISTRATION FEE: Rs 100(per team)</li><span class='info-title'>JUDGING CRITERIA</span><li>Round 1 is evaluated based on number of questions answered correctly.</li><li>Round 2 is based on output, time taken and efficiency of the solution.</li><span class='info-title'>RULES</span><li>Every team should consist a maximum of TWO members.</li><li>College ID card is COMPULSORY. </li><li>Use of mobile phones are strictly prohibited.</li><li>Participants have to reach the venue atleast half an hour before the scheduled time.</li><li>Decision of judges and event coordinators are final and binding to all.</li>",
+        "hometown":"<br><br> Divya Sharma 7034036204<br> Gowri Shankar 9633387527",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Debugging",
+      "description": "Happiness is when your code is rid of those annoying bugs and runs successfully. Experience euphoria by joining DEBUGGING and win prize money worth 3K. <br>Prizes sponsored by <a href='http://fb.com/logidots' target='_blank'>LOGIDOTS</a> ",
+      "month": "December",
+      "media_url": "img/artwork/debugging17.jpg", 
+      "artist": {
+        "name": "Computer Science",
+        "title":"<span class='info-title'>Rules and other information</span><li>Rules<li>The event is to be contested individually.</li><li>Registration fee : Rs.100</li><li>Language used: C</li><li>PCs will be provided to each participant</li><li>The solution and approach to making the given code error- free determines the winner.</li>",
+        "hometown":"<br>Ashil 8547294440",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "8051 Skills",
+      "description": "To all those coders out there, wanna have a duel with a hero from the past?! You think you are an expert at this? To knock out the barriers of conventional programming and push your microcontrollers to do beyond the exceptional and to emerge out victorious!!<br>All the Assembly Language freaks down there,the opportunity is at your grasp!<br>Make every blink of your LED count at this Cult A way!!!!",
+      "month": "December",
+      "media_url": "img/artwork/8051-skills.png", 
+      "artist": {
+        "name": "Computer Science",
+        "title":"",
+        "hometown":"<br><br> Vishnupriya : 9544646554 <br> Sruthi : 8137097832",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Dark Invasion",
+      "description": "Are u flexible enough to invade a tightly laser secured room and escape with the treasure safely?? Then prepare for a time attack at Cult A Way 2k17!!!The fastest will get their hands on the prize!!!",
+      "month": "December",
+      "media_url": "img/artwork/dark-invasion.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>The contestant should evade the laser maze and return back with the treasure.</li><li>A maximum of 2 retries are possible.</li><li>After task completion, results will be based on round trip time.</li>",
+        "hometown":"<br><br>Arjun 9400373291<br> Aravind 9496031373",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Blueprint",
+      "description": "This year CULTAWAY brings to you blueprint!.. Blueprint is an event which asks you to design a blueprint of a production line with a help of a given booklet which gives you information about the materials and machines you can use,present your blueprint and finally market it to us and take your prize!!!",
+      "month": "December",
+      "media_url": "img/artwork/blueprint.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>Details</span><li>Prizes worth 8k!</lu><li>Entry fee Rs.100 per head</li><li>Team of max 3 individuals</li>",
+        "hometown":"<br><br>Nithin :+919495603142<br>Anand :+919497383241",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "MATLAB Skills",
+      "description": "Its about Math.....Its about science......Its about Art. Capable of Everything and Anything ; that's what a MATLAB coder think of!! Up for some game with this Ultimate tool?? Register for MATLAB coding , if u believe that it can do it all !!!<br>Come on.......test out your MATLAB Skills here at Cult A Way 2017 and prove before others that you are indeed the best in this business!!!",
+      "month": "December",
+      "media_url": "img/artwork/matlab-skills.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules</span><li>Can use build in Help for libraries,but not on internet.</li><li>If something is not available offline , it will be provided to you.</li>",
+        "hometown":"<br><br>Angelin 8086010660 <br> Sruthy S 9400454551",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Mutant Predictor",
+      "description": "Bacteria to protozoans to fungi to viruses, we've all heard that they're everywhere, yet we fail to see them...<br>But have you ever wondered what they may look like? What features makes each of these groups different from others ?<br>Cult a way ADVENT in association with EVOGEN provides you with the opportunity to masquerade the life of a microbiologist and and give you a first hand look at these daily life mutants and predict who's who, because knowing them is only half the battle .... Are you ready to come up close with these mutants and decode their identities ?",
+      "month": "December",
+      "media_url": "img/artwork/mutant-predictor.jpg", 
+      "artist": {
+        "name": "Biotechnology",
+        "title":"",
+        "hometown":"<br><br>R.Shwetha 8281191008 <br> Shwetha 95396995111",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Engine Dismantling",
+      "description": "Are you prepared to get your hands dirty and work with Engines??<br>An Event Aimed at testing practical knowledge on IC Engines.<br>Dismantle a real IC Engine into components, explore the engineering involved in an automotive engine system and Assemble the engine parts back.<br>Do all This In the shortest time to be declared WINNER And Cash in on the Prizes. ",
+      "month": "December",
+      "media_url": "img/artwork/engine-dismantling.jpg", 
+      "artist": {
+        "name": "Mechanical",
+        "title":"<span class='info-title'>Details</span><li>FIRST PRIZE : Rs 2k</li><li>SECOND PRIZE : Rs 1k</li><li>Registration : Rs 100 per team</li><li>Participants : A Team Of 2</li><li>Venue : SCT COLLEGE OF ENGINEERING.</li><li>Date : 3rd March 2017</li><li>Time : 9:30 am</li>",
+        "hometown":"<br><br>Ashwin 9744560389 <br>Sabarinath 9946115571",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Enigma",
+      "description": "'You can either be a victim of the world or an adventurer in search of treasure.'– Paulo Coelho<br>Enigma brings out the scavenger in you, where each team races against time through physical tasks to be the first in finding the hidden treasure.",
+      "month": "December",
+      "media_url": "img/artwork/enigma17.jpg", 
+      "artist": {
+        "name": "Computer Science",
+        "title":"<span class='info-title'>Event Outline</span>The event will consist of two rounds: The Preliminary round and The Finals.Entry Fee 75 per head<br><li>Round 1:The preliminary round will be a written test. The participants will have to answer a questionnaire based on topics related to general aptitude and basic computer science. They will be given 30 minutes to answer the questions and the Top 4 teams will qualify for the next round.</li><li>Round 2:The teams will be provided with their first clue simultaneously, which when deciphered leads them to the next location where they have to perform a task revealed on spot to obtain the next clue. Following the series of clues, the first team to decipher all the clues will be adjudged as the winners of the event. Along with them will be a committee member to look at their time and tally the points. The participants are required to have basic programming knowledge.</li><span class='info-title'>Rules</span><li>Each team should consist of not more than four members.</li><li>Participants should note that they must accompany the committee member assigned to them till the event ends.</li><li>The clues are to be found in a particular order. Manipulation of the order of clues will lead to disqualification.</li><li>During the event, team members cannot split up to find different clues. The entire team must stay together during the competition.</li><li>Participants should carry their college ID cards.</li><li>Organizers reserve the right to disqualify teams on the grounds of misbehavior and use of unfair means. Their decision is considered final and not subjected to dispute.</li>",
+        "hometown":"<br><br>Priyanka 8547016756 <br>Arathy 9400039296",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Chicane",
+      "description": "Do you have what it takes to be the fastest on the track ?<br>ADVENT in association with Cult A Way presents 'CHICANE 2k17' - RC car race</br>But haven't it always been boring to stand and just watch the race? Then the wait is OVER. We give YOU the remote control of OUR rc car. The contestant who completes the circuit in the shortest time will be the winner.<br>If you think the circuit is plain , YOU GOT IT ALL WRONG !!!",
+      "month": "December",
+      "media_url": "img/artwork/chicane.jpg", 
+      "artist": {
+        "name": "Mechanical",
+        "title":"",
+        "hometown":"<br><br>Sreekanth 8281469256 <br>Chacko 9497743287",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Robomaze",
+      "description": "Fan of robots? Love video games? How about both of that combined together and set inside a mirror maze? FUN!!! Yes.. that’s what cult a way is bringing to you this time, an interesting game filled with fun and a bit of tactics.. We bring you ROBOMaze!!!! <br>The idea We got a robot, we call him Buddy007.. We set him inside a mirror maze, you can see through his eyes using a built in camera. The controls are linked to a pc. The task is simple. Use the controls to get Buddy007 out of the maze as soon as possible. Your clock will be ticking and the person with the shortest time to exit will be declared the winner. So exercise your hands and come prepared to SCTCE on 2nd March, 2017 for CULTAWAY. cheers!! ",
+      "month": "December",
+      "media_url": "img/artwork/robomaze.jpg", 
+      "artist": {
+        "name": "Electronics",
+        "title":"<span class='info-title'>Rules and other information</span><li>Entry fee will be Rs.100 per head.</li><li>Each individual gets 2 chances.</li><li>Participants will loose their change if they hit a mirror.</li><li>Participants are not allowed to help each other.</li><li>A new pattern will be given to each participant.</li><li>Participants are to be careful in dealing with the robot and the participants will be held responsible for any damage caused by them.</li><li>Incase of a tie in time period, both participants will be called for a tie breaker and if one fails to show up, the participant that shows up will be declared the winner.</li><li>This is a technical gaming event which will be held on all days of Cult A Way.</li>",
+        "hometown":"<br><br>Lakshmi 9446616212 <br>Ramya 9846587943",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Chemcathon",
+      "description": "It's time to reveal your chemistry knowledge.An event for testing your skills on chemicals. Conduct an experiment with your basic knowledge in chemistry and identify those compounds. Do this in short time and prize is yours",
+      "month": "December",
+      "media_url": "img/artwork/chemcathon.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>Details</span><li>Date: 3 march 2017</li><li>Registration fee : Rs 100</li><li>Time :10am</li><li>Venue : SCT College Of Engineering</li>",
+        "hometown":"<br>Preetha  9400520098",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Cult Ninja",
+      "description": "Do you pride yourself for being cool in the face of danger ? Is 'Adventure' your middle name ? Do you live for some adrenaline rush ? But have you held back on occassions because the price of heights, was too high ? <br>Look no further. <br>SCTCE and Cult A Way present before you CULT NINJA, the perfect place to free your inner ninja.<br>We have for you BURMA BRIDGE, COMMANDO NET, SWINGING VALLEY CROSS, COMMANDO BRIDGE and MUCH MORE !!",
+      "month": "December",
+      "media_url": "img/artwork/cult-ninja.jpg", 
+      "artist": {
+        "name": "Mechanical",
+        "title":"<span class='info-title'>Details</span><li>Date : 4th and 5th March.</li><li>Venue : Kanakakkunnu Palace.</li><li>For the nominal price of Rs. 50, you get to experience the adventure of a lifetime and stand a chance to win prizes worth Rs 3000.</li>",
+        "hometown":"<br><br>Aravind  9744183336<br>Jitheesh  9400879968",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Hack 'N Hurl",
+      "description": "Designing and engineering need not be all about complexity, it can be simple and fun. Hack 'N Hurl is an event that will testify this statement. The event calls for a team of 2 who will be given standard stationery item and will be asked to design a 'CATAPULT', a medieval war contraption to hurl a standard mass. The catapult that throws the mass farthest wins. The most innovative catapult design will also be rewarded regardless of its performance.So, are you ready to Hack N Hurl?<br>Prizes woth 3K",
+      "month": "December",
+      "media_url": "img/artwork/hack-n-hurl.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>Details</span><li>Date : 4th and 5th March.</li><li>Venue : Kanakakkunnu Palace.</li><li>For the nominal price of Rs. 50, you get to experience the adventure of a lifetime and stand a chance to win prizes worth Rs 3000.</li>",
+        "hometown":"<br><br>Sarath Nair S 9037791077<br>Razeem Kn 8086637366 ",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    },
+    {
+      "hashtag": "Lumiere",
+      "description": "The TECH EXPO!!! For the first time in the history of cult we bring you an expo featuring the best of best companies like Brahmos,ISRO,BSNL etc. and over 50 + exhibits for the auto lunatics,the robo admirers and the tech enthusiasts out there!<br>This is your chance to get in touch with all the latest technologies in store.We bring before you a tech expo Trivandrum has never seen!Dont you wanna change the world with technology?!",
+      "month": "December",
+      "media_url": "img/artwork/lumiere.jpg", 
+      "artist": {
+        "name": "",
+        "title":"<span class='info-title'>Details</span><li>Date : 4th and 5th March.</li><li>Venue : Kanakakkunnu Palace.</li><li>For the nominal price of Rs. 50, you get to experience the adventure of a lifetime and stand a chance to win prizes worth Rs 3000.</li>",
+        "hometown":"<br><br>-",
+        "twitter":"",
+        "website":""
+      },
+      "main_color":"#a00201"
+    }
+
+
+  ]
+}
